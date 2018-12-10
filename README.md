@@ -1,0 +1,1 @@
+react-handsontable-typings-issue

@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "sourceMap": true,
+      "noImplicitAny": false,
+      "module": "commonjs",
+      "target": "es5",
+      "jsx": "react",
+      "lib": [ "es7", "es2017", "dom", "scripthost" ],
+      "skipLibCheck": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "typeRoots": [
+          "./node_modules/@types",
+          "./typings"
+      ]
+    },
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  

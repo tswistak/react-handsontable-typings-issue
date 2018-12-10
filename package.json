@@ -1,0 +1,17 @@
+{
+  "name": "handsontable-typings-error",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "license": "MIT",
+  "dependencies": {
+    "@handsontable/react": "^2.1.0",    
+    "handsontable": "^6.2.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^16.0.11",
+    "@types/react": "16.7.13",
+    "typescript": "3.2.2"
+  }
+}

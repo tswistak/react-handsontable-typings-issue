@@ -1,1 +1,1 @@
-react-handsontable-typings-issue
+Demo for typings issue in @handsontable/react
